@@ -458,6 +458,9 @@
 							<key time="13" ipType="linear">
 								<value>76.8000030517578</value>
 							</key>
+							<key time="16" ipType="linear">
+								<value>80</value>
+							</key>
 							<key time="18" ipType="linear">
 								<value>80</value>
 							</key>
@@ -481,6 +484,9 @@
 							<key time="13" ipType="linear">
 								<value>-296</value>
 							</key>
+							<key time="16" ipType="linear">
+								<value>-240</value>
+							</key>
 							<key time="18" ipType="linear">
 								<value>-240</value>
 							</key>
@@ -500,6 +506,9 @@
 							</key>
 							<key time="12" ipType="linear">
 								<value>-339.208648681641</value>
+							</key>
+							<key time="16" ipType="linear">
+								<value>-351.096954345703</value>
 							</key>
 							<key time="18" ipType="linear">
 								<value>-345.775848388672</value>
@@ -527,6 +536,9 @@
 								<value>0</value>
 							</key>
 							<key time="12">
+								<value>0</value>
+							</key>
+							<key time="16">
 								<value>0</value>
 							</key>
 							<key time="18">
