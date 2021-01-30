@@ -35,7 +35,7 @@
 			<meshTriList />
 		</cell>
 		<cell>
-			<name>犬2_1</name>
+			<name>犬_胴</name>
 			<pos>704 924</pos>
 			<size>524 776</size>
 			<pivot>0.0362595431506634 -0.146907210350037</pivot>
@@ -50,7 +50,7 @@
 			<meshTriList />
 		</cell>
 		<cell>
-			<name>犬2_2</name>
+			<name>犬_左腕</name>
 			<pos>1684 356</pos>
 			<size>284 328</size>
 			<pivot>-0.267605632543564 0.338414639234543</pivot>
@@ -65,7 +65,7 @@
 			<meshTriList />
 		</cell>
 		<cell>
-			<name>犬2_3</name>
+			<name>犬_左腕２</name>
 			<pos>1876 676</pos>
 			<size>308 404</size>
 			<pivot>-0.2240259796381 0.344059407711029</pivot>

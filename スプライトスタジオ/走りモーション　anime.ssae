@@ -349,7 +349,7 @@
 			<overrideSettings>1</overrideSettings>
 			<settings>
 				<fps>30</fps>
-				<frameCount>25</frameCount>
+				<frameCount>24</frameCount>
 				<sortMode>prio</sortMode>
 				<canvasSize>2000 2000</canvasSize>
 				<pivot>0 0</pivot>
@@ -358,7 +358,7 @@
 				<gridColor>FF808080</gridColor>
 				<ik_depth>2</ik_depth>
 				<startFrame>0</startFrame>
-				<endFrame>24</endFrame>
+				<endFrame>23</endFrame>
 				<bgSettings>
 					<value>
 						<imagePath></imagePath>
@@ -391,7 +391,7 @@
 							<key time="12" ipType="linear">
 								<value>-56</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-56</value>
 							</key>
 						</attribute>
@@ -402,7 +402,7 @@
 							<key time="12" ipType="linear">
 								<value>160</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>160</value>
 							</key>
 						</attribute>
@@ -413,7 +413,7 @@
 							<key time="12">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -426,19 +426,19 @@
 							<key time="0">
 								<value>
 									<mapId>0</mapId>
-									<name>犬2_1</name>
+									<name>犬_胴</name>
 								</value>
 							</key>
 							<key time="12">
 								<value>
 									<mapId>0</mapId>
-									<name>犬2_1</name>
+									<name>犬_胴</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
-									<name>犬2_1</name>
+									<name>犬_胴</name>
 								</value>
 							</key>
 						</attribute>
@@ -461,10 +461,7 @@
 							<key time="18" ipType="linear">
 								<value>80</value>
 							</key>
-							<key time="20" ipType="linear">
-								<value>80</value>
-							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>76</value>
 							</key>
 						</attribute>
@@ -487,10 +484,7 @@
 							<key time="18" ipType="linear">
 								<value>-240</value>
 							</key>
-							<key time="20" ipType="linear">
-								<value>-240</value>
-							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-325</value>
 							</key>
 						</attribute>
@@ -510,10 +504,7 @@
 							<key time="18" ipType="linear">
 								<value>-345.775848388672</value>
 							</key>
-							<key time="20" ipType="linear">
-								<value>-351.096954345703</value>
-							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-339.208648681641</value>
 							</key>
 						</attribute>
@@ -524,7 +515,7 @@
 							<key time="12" ipType="linear">
 								<value>-1</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-1</value>
 							</key>
 						</attribute>
@@ -541,10 +532,7 @@
 							<key time="18">
 								<value>0</value>
 							</key>
-							<key time="20">
-								<value>0</value>
-							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -560,7 +548,7 @@
 									<name>犬2</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
 									<name>犬2</name>
@@ -571,7 +559,7 @@
 							<key time="0" ipType="linear">
 								<value>-4</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-4</value>
 							</key>
 						</attribute>
@@ -579,7 +567,7 @@
 							<key time="0" ipType="linear">
 								<value>436</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>436</value>
 							</key>
 						</attribute>
@@ -599,7 +587,7 @@
 							<key time="18" ipType="linear">
 								<value>-14.8313550949097</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-28.4651260375977</value>
 							</key>
 						</attribute>
@@ -607,7 +595,7 @@
 							<key time="0" ipType="linear">
 								<value>0</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -615,7 +603,7 @@
 							<key time="0">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -631,7 +619,7 @@
 									<name>犬2_8</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
 									<name>犬2_8</name>
@@ -645,7 +633,7 @@
 							<key time="12" ipType="linear">
 								<value>92.7971572875977</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>54.4086227416992</value>
 							</key>
 						</attribute>
@@ -656,7 +644,7 @@
 							<key time="12" ipType="linear">
 								<value>-141.33447265625</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-141.020751953125</value>
 							</key>
 						</attribute>
@@ -673,7 +661,7 @@
 							<key time="18" ipType="linear">
 								<value>-24.0045776367188</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-85.2214202880859</value>
 							</key>
 						</attribute>
@@ -681,7 +669,7 @@
 							<key time="0" ipType="linear">
 								<value>0</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -689,7 +677,7 @@
 							<key time="0">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -705,7 +693,7 @@
 									<name>犬2_9</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
 									<name>犬2_9</name>
@@ -716,7 +704,7 @@
 							<key time="0" ipType="linear">
 								<value>-21.6006813049316</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-21.6006813049316</value>
 							</key>
 						</attribute>
@@ -724,7 +712,7 @@
 							<key time="0" ipType="linear">
 								<value>-158.113967895508</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-158.113967895508</value>
 							</key>
 						</attribute>
@@ -738,7 +726,7 @@
 							<key time="12" ipType="linear">
 								<value>42.1687889099121</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>25.5800514221191</value>
 							</key>
 						</attribute>
@@ -746,7 +734,7 @@
 							<key time="0" ipType="linear">
 								<value>1</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>1</value>
 							</key>
 						</attribute>
@@ -754,7 +742,7 @@
 							<key time="0" ipType="linear">
 								<value>0</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -762,7 +750,7 @@
 							<key time="0">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -784,7 +772,7 @@
 									<name>犬2_6</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
 									<name>犬2_6</name>
@@ -801,7 +789,7 @@
 							<key time="12" ipType="linear">
 								<value>-55.6116790771484</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-108</value>
 							</key>
 						</attribute>
@@ -815,7 +803,7 @@
 							<key time="12" ipType="linear">
 								<value>303.665832519531</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>315</value>
 							</key>
 						</attribute>
@@ -835,7 +823,7 @@
 							<key time="18" ipType="linear">
 								<value>15.3651742935181</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-40.9241409301758</value>
 							</key>
 						</attribute>
@@ -846,7 +834,7 @@
 							<key time="1" ipType="linear">
 								<value>-3</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-3</value>
 							</key>
 						</attribute>
@@ -857,7 +845,7 @@
 							<key time="1">
 								<value>1</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>1</value>
 							</key>
 						</attribute>
@@ -868,7 +856,7 @@
 							<key time="1">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -890,7 +878,7 @@
 									<name>犬2_7</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
 									<name>犬2_7</name>
@@ -904,7 +892,7 @@
 							<key time="1" ipType="linear">
 								<value>-143.251739501953</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-143.251739501953</value>
 							</key>
 						</attribute>
@@ -915,7 +903,7 @@
 							<key time="1" ipType="linear">
 								<value>-222.976715087891</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-222.976715087891</value>
 							</key>
 						</attribute>
@@ -932,7 +920,7 @@
 							<key time="18" ipType="linear">
 								<value>-72.9427108764648</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-58.6027870178223</value>
 							</key>
 						</attribute>
@@ -943,7 +931,7 @@
 							<key time="1" ipType="linear">
 								<value>-5</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-5</value>
 							</key>
 						</attribute>
@@ -954,7 +942,7 @@
 							<key time="1">
 								<value>1</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>1</value>
 							</key>
 						</attribute>
@@ -965,7 +953,7 @@
 							<key time="1">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -981,7 +969,7 @@
 									<name>犬2_4</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
 									<name>犬2_4</name>
@@ -995,7 +983,7 @@
 							<key time="12" ipType="linear">
 								<value>-102.06184387207</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-31.2503776550293</value>
 							</key>
 						</attribute>
@@ -1006,7 +994,7 @@
 							<key time="12" ipType="linear">
 								<value>-100.024703979492</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-71.2890777587891</value>
 							</key>
 						</attribute>
@@ -1023,7 +1011,7 @@
 							<key time="18" ipType="linear">
 								<value>-11.8190078735352</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>1.78781342506409</value>
 							</key>
 						</attribute>
@@ -1031,7 +1019,7 @@
 							<key time="0" ipType="linear">
 								<value>1</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>1</value>
 							</key>
 						</attribute>
@@ -1042,7 +1030,7 @@
 							<key time="5" ipType="linear">
 								<value>-4</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-5</value>
 							</key>
 						</attribute>
@@ -1050,7 +1038,7 @@
 							<key time="0">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -1066,7 +1054,7 @@
 									<name>犬2_5</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
 									<name>犬2_5</name>
@@ -1077,7 +1065,7 @@
 							<key time="0" ipType="linear">
 								<value>-29.5417156219482</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-29.5417156219482</value>
 							</key>
 						</attribute>
@@ -1085,7 +1073,7 @@
 							<key time="0" ipType="linear">
 								<value>-197.00846862793</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-197.00846862793</value>
 							</key>
 						</attribute>
@@ -1102,7 +1090,7 @@
 							<key time="18" ipType="linear">
 								<value>51.395149230957</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>68.7795486450195</value>
 							</key>
 						</attribute>
@@ -1113,7 +1101,7 @@
 							<key time="6" ipType="linear">
 								<value>-5</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-6</value>
 							</key>
 						</attribute>
@@ -1121,7 +1109,7 @@
 							<key time="0">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -1134,19 +1122,19 @@
 							<key time="0">
 								<value>
 									<mapId>0</mapId>
-									<name>犬2_2</name>
+									<name>犬_左腕</name>
 								</value>
 							</key>
 							<key time="1">
 								<value>
 									<mapId>0</mapId>
-									<name>犬2_2</name>
+									<name>犬_左腕</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
-									<name>犬2_2</name>
+									<name>犬_左腕</name>
 								</value>
 							</key>
 						</attribute>
@@ -1163,7 +1151,7 @@
 							<key time="13" ipType="linear">
 								<value>48.1261749267578</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>109.708557128906</value>
 							</key>
 						</attribute>
@@ -1180,7 +1168,7 @@
 							<key time="13" ipType="linear">
 								<value>315.071960449219</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>319.500823974609</value>
 							</key>
 						</attribute>
@@ -1203,7 +1191,7 @@
 							<key time="18" ipType="linear">
 								<value>-17.415210723877</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>42.6220054626465</value>
 							</key>
 						</attribute>
@@ -1223,7 +1211,7 @@
 							<key time="18" ipType="linear">
 								<value>0</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -1234,7 +1222,7 @@
 							<key time="1">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
@@ -1247,19 +1235,19 @@
 							<key time="0">
 								<value>
 									<mapId>0</mapId>
-									<name>犬2_3</name>
+									<name>犬_左腕２</name>
 								</value>
 							</key>
 							<key time="1">
 								<value>
 									<mapId>0</mapId>
-									<name>犬2_3</name>
+									<name>犬_左腕２</name>
 								</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>
 									<mapId>0</mapId>
-									<name>犬2_3</name>
+									<name>犬_左腕２</name>
 								</value>
 							</key>
 						</attribute>
@@ -1270,7 +1258,7 @@
 							<key time="1" ipType="linear">
 								<value>143.015426635742</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>143.015426635742</value>
 							</key>
 						</attribute>
@@ -1281,7 +1269,7 @@
 							<key time="1" ipType="linear">
 								<value>-186.534637451172</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-186.534637451172</value>
 							</key>
 						</attribute>
@@ -1298,7 +1286,7 @@
 							<key time="13" ipType="linear">
 								<value>-48.8104591369629</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>-29.0422420501709</value>
 							</key>
 						</attribute>
@@ -1312,7 +1300,7 @@
 							<key time="18" ipType="linear">
 								<value>0</value>
 							</key>
-							<key time="24" ipType="linear">
+							<key time="23" ipType="linear">
 								<value>1</value>
 							</key>
 						</attribute>
@@ -1323,7 +1311,7 @@
 							<key time="1">
 								<value>0</value>
 							</key>
-							<key time="24">
+							<key time="23">
 								<value>0</value>
 							</key>
 						</attribute>
