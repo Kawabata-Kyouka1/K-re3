@@ -178,16 +178,17 @@
 		<padding>1</padding>
 	</texPackSettings>
 	<cellmapNames>
+		<value>zimenn.ssce</value>
 		<value>犬2.ssce</value>
 	</cellmapNames>
 	<animepackNames>
 		<value>犬２-モーション-anime.ssae</value>
 	</animepackNames>
 	<lastAnimeFile>犬２-モーション-anime.ssae</lastAnimeFile>
-	<lastAnimeName>走りージャンプ</lastAnimeName>
-	<lastPart>犬2_3</lastPart>
+	<lastAnimeName>テスト</lastAnimeName>
+	<lastPart>犬2_13</lastPart>
 	<lastCellMapFile>犬2.ssce</lastCellMapFile>
-	<lastCell>犬_左腕２</lastCell>
+	<lastCell>犬2_5</lastCell>
 	<lastEffectFile></lastEffectFile>
 	<setupmode>0</setupmode>
 	<expandAnimation />
